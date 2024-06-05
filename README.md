@@ -1,2 +1,3 @@
-# hscl-archievd
-The repository for Hierarchical SCL implementation and tests.
+We use UpscaleDB for macro-benchmarking.
+
+Use the `tools/ups_bench` tool for benchmarking. Check the details on upscaledb documentation website.
